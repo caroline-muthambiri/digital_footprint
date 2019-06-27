@@ -17,4 +17,3 @@ def google_search(search_term, api_key, cse_id, **kwargs):
 
 #printing out the results 
 print google_search(web_search, digital_footprint_api_key, digital_footprint_cse_id)
-
