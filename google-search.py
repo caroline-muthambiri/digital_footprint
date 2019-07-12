@@ -3,8 +3,8 @@ import googleapiclient
 
 from googleapiclient.discovery import build
 #these are the api and cse_id issued for google developers to create custom search engines.
-digital_footprint_api_key = "AIzaSyDZy7rJtaiXbvGpspDRN0PnWiULCSiygMU"
-digital_footprint_cse_id = "002218691429702604885:xs3xwythtf4"
+digital_footprint_api_key = "DATA_STRIPED"
+digital_footprint_cse_id = "DATA_STRIPED"
 
 #defining search term, this can be anything
 web_search = "Caroline Muthambiri"
